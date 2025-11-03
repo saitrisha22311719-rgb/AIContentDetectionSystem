@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+my_finetuned_mbert/
+*.log
+*.pt
+*.bin
+*.csv
+/results/
+/logs/
