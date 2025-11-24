@@ -13,6 +13,8 @@ This project detects **AI-generated text** vs **Human-written text** using **Mul
 ```bash
 pip install -r requirements.txt
 ```
+## Backend code Main.py
+## Frontend code:Front.pdf
 
 ## 🧪 Run the Streamlit App
 ```bash
